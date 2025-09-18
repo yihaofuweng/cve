@@ -10,7 +10,7 @@ During my study and research in information security, I have been honored to rec
 
 - **EU Information Security Hall of Fame**
 
-Inducted Year: 2025.4.09
+Inducted Year: 2025.4.9
 
 Description: Inducted for outstanding contributions to information security research and the community.
 
