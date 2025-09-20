@@ -36,5 +36,6 @@ Description: In recognition of support and contributions to aerospace-related in
 - [Details of the collaboration between NASA and Inmarsat Government and the type of contract](https://bugcrowd.com/disclosures/15a0eb58-7384-4151-b02f-880ea1bfa124/details-of-the-collaboration-between-nasa-and-inmarsat-government-and-the-type-of-contract)
 
 - [Publicly Editable Google Docs Linked from NASA SnowEx PPT](https://bugcrowd.com/disclosures/4ca8ddf6-e875-4b76-93cf-559444c3811a/publicly-editable-google-docs-linked-from-nasa-snowex-ppt)
+![9fd7ac85b979d5d1d744e5b0b47f104f](https://github.com/user-attachments/assets/6515906a-bbc2-466c-9653-55be10de1d09)
 
 ---
